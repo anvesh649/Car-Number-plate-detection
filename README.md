@@ -2,4 +2,4 @@
 Number Plate Detection of Cars in MATLAB
 
 <br>
-Refer to Powerpoint Presentation for details
+Refer to PPT for more info
